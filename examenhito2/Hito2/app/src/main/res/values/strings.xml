@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hito2</string>
+    <string name="tx1">Epidemia Coronavirus</string>
+    <string name="cocha">COCHABAMBA</string>
+    <string name="c1">Casos confirmados</string>
+    <string name="c2">Casos sospechosos</string>
+    <string name="santa">Santa Cruz</string>
+    <string name="casos">Nro casos</string>
+    <string name="oruro">Oruro</string>
+    <string name="confir">5</string>
+    <string name="confir2">15</string>
+
+    <string name="oru">ORURO</string>
+    <string name="usq">INGRESE BUSQUEDA</string>
+    <string name="btn">set values</string>
+    <string name="btn2">CALCULAR</string>
+
+</resources>
