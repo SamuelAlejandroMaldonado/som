@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Examenhito3</string>
+    <string name="titulo">SOME</string>
+    <string name="titulo2">DEFENSA HITO 3</string>
+    <string name="manejo2">Univ:Samuel Maldonado</string>
+    <string name="estion">Gestion:2020</string>
+    <string name="done">Next</string>>
+    <string name="skip">Skip</string>
+    <string name="asica">Basica</string>
+    <string name="asica1">Cientifica</string>
+    <string name="asica2">Custom</string>
+    <string name="selecapp">Select App</string>
+    <string name="username">Username</string>
+    <string name="in">Ingresar</string>
+    <string name="select">Select</string>
+    <string name="Dex">Desc</string>
+    <string name="manejo">Manejo de events,functions,activities y navigattion entre screens</string>
+
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="multi">*</string>
+    <string name="di">/</string>
+</resources>
