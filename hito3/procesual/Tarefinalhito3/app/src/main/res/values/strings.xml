@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Examenhito3</string>
+    <string name="titulo">SOME</string>
+    <string name="titulo2">DEFENSA HITO 3</string>
+    <string name="manejo2">Univ:Samuel Maldonado</string>
+    <string name="estion">Gestion:2020</string>
+    <string name="done">Next</string>>
+    <string name="skip">Skip</string>
+    <string name="asica">Basica</string>
+    <string name="asica1">Cientifica</string>
+    <string name="asica2">Custom</string>
+    <string name="selecapp">Select App</string>
+    <string name="username">Username</string>
+    <string name="in">Ingresar</string>
+    <string name="select">Select</string>
+    <string name="Dex">Desc</string>
+    <string name="manejo">Manejo de events,functions,activities y navigattion entre screens</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="multi">*</string>
+    <string name="di">/</string>
+    <string name="nume1">1</string>
+    <string name="nume2">2</string>
+    <string name="nume3">3</string>
+    <string name="nume4">4</string>
+    <string name="nume5">5</string>
+    <string name="nume6">6</string>
+    <string name="nume7">7</string>
+    <string name="nume8">8</string>
+    <string name="nume9">9</string>
+    <string name="nume0">0</string>
+    <string name="masmenos">+/-</string>
+    <string name="punto">.</string>
+    <string name="iual">=</string>
+    <string name="mass">+</string>
+    <string name="menoss">-</string>
+    <string name="multii">*</string>
+    <string name="dis">/</string>
+    <string name="c">C</string>
+    <string name="c2">C2</string>
+    <string name="flecha">(-</string>
+    <string name="cuadrado">x2</string>
+    <string name="porcentaje">%</string>
+    <string name="R">R</string>
+
+
+
+
+
+
+</resources>
